@@ -5,3 +5,5 @@
 /.vimrc
 /docs/*.lock
 /docs/_site
+.idea/
+.DS_Store
